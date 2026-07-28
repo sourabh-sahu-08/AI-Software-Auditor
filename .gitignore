@@ -1,0 +1,10 @@
+# Python ignores
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+logs/
+*.sqlite3
+.pytest_cache/

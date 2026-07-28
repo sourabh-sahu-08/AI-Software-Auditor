@@ -1,0 +1,4 @@
+# Dependencies for AI Software Auditor
+streamlit
+python-dotenv
+# Groq API and other dependencies will be added here
