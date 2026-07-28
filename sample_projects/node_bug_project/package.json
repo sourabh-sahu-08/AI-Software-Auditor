@@ -1,0 +1,8 @@
+{
+  "name": "node_bug_project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo \"Building...\" && exit 0"
+  }
+}

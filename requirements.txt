@@ -1,4 +1,10 @@
-# Dependencies for AI Software Auditor
 streamlit
+groq
 python-dotenv
-# Groq API and other dependencies will be added here
+requests
+pandas
+plotly
+GitPython
+pytest
+pylint
+bandit
